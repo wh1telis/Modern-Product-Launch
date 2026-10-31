@@ -1,0 +1,74 @@
+:root {
+  /* цветовая палитра */
+  --accent1-color: #485C11;
+  --accent2-color: #DFECC6;
+  --accent3-color: #8E9C78;
+  --accent4-color: #000;
+  --accent5-color: #6F6F6F;
+  --accent6-color: #929292;
+  --divider-color: #E9E9E9;
+}
+/* текстовые стили */
+.display-header {
+  font-family: 'Crimson Text', sans-serif;
+  font-size: 160px;
+  letter-spacing: -0.05em;
+  line-height: 0.85;
+  min-width: 1200px;
+  font-weight: 400;
+
+}
+.display-statics {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  color: var(--accent6-color);
+}
+.h2-text {
+  font-family: 'Crimson Text', sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+
+}
+
+.h3-text {
+  font-family: 'Crimson Text', sans-serif;
+  font-size: 40px;
+letter-spacing: -0.03em;
+}
+
+.h4-text {
+  font-family: 'Crimson Text', sans-serif;
+  font-size: 18px;
+  text-transform: capitalize;
+  font-weight: 400;
+
+}
+
+.p-text {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: var(--accent5-color);
+
+}
+
+.captions-text {
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  
+
+}
+
+.link-text {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: capitalize;
+  letter-spacing: -0.025em;
+  color: var(--accent4-color);
+
+
+}
