@@ -387,11 +387,11 @@ tbody tr:last-child td.td-col-3 {
 }
 
 .check-ico::before {
-  content: url("/icon/Check icon.svg");
+  content: url("./icon/Check icon.svg");
   
 }
 .close-ico::before {
-  content: url("/icon/Close icon.svg");
+  content: url("./icon/Close icon.svg");
 }
 .check-ico::before, .close-ico::before {
   margin-left: 30px;
